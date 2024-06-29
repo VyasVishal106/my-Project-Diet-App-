@@ -8,7 +8,7 @@ const ZeroNavbar = () => {
       <div className="max-w-7xl mx-auto px-4">
         <div className="flex justify-between items-center">
           <div className="flex-shrink-0">
-            <a href="#" className="text-black text-lg font-semibold">Logo</a>
+            <a href="#" className="text-black text-lg font-semibold">HELLIXHEAVAN</a>
           </div>
           <div className="hidden md:block">
             <ul className="flex space-x-4">
